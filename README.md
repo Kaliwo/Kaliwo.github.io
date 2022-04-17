@@ -9,4 +9,4 @@ Alinafe has devoted most his time in researching more about novel technologies t
 ### More awards
 Among other awards, his innovation for temperature monitoring of cold-chain items, dubbed TempCras was rewarded in 2017 at the Innovators Design Competition as the Best Overall Project, at Tony Elumelu Foundation Entrepreneurship Program 2018 in Nigeria as the business most likely to succeed and at the Southern Africa Start-up Awards (SASAwards) of the Global Innovation awards of 2018.
 
-He is the Founder and Engineer of **Mechro Africa**, a yound technology start-up domiciled in Johannesburg, South Africa. For more details about Mechro Africa see [their website](https://mechro.co.za).
+He is the Founder and Engineer of **Mechro Africa**, a young technology start-up domiciled in Johannesburg, South Africa. For more details about Mechro Africa see [their website](https://mechro.co.za).
